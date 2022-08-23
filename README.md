@@ -45,4 +45,4 @@ Summarize four changes in the updated school district analysis after reading and
 - Average Reading Scores declined from 81.88 to 81.86
 - % Passing Math declined from 74.98 to 74.76
 - % Passing Reading declined from 84.81 to 85.66
-- % Overall Passing declined from 65.17 to 64.866
+- % Overall Passing declined from 65.17 to 64.86
