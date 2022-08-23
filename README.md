@@ -23,8 +23,8 @@ The ***PyCity Schools*** simulation model offers a real-world example where Mari
 
 Since Thomas High School (THS) 9th grade reading and math scores were in question, the simulation requires replacing those scores with “NaN” (Not a number). (Note, this is not the same as replacing the scores with the value of zero.) When the scores were revised, the metrics in the School District Summary also changed. While Total Schools and Budget remained the same, the Average Reading and Math Scores, as well as the % Passing Scores for Reading, Math and Overall were revised to reflect the exclusion of the THS 9th grade class. 
 
-![SCD Summary-Orig](https://github.com/vjtrom/School_District_Analysis/blob/main/images/School_District_Summary_original.png)
-
+![SCD Summary_Orig](https://github.com/vjtrom/School_District_Analysis/blob/main/images/School_District_Summary_original.png)
+![SCD Summary_Rev](https://github.com/vjtrom/School_District_Analysis/blob/main/images/School_District_Summary_rev.png)
 
 ### - How is the school summary affected?
 
