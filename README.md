@@ -3,7 +3,7 @@
 
 Python itself is a powerful tool, but when combined with Pandas, an open-source library that contains high-performance analytics tools, the combination is even more impactful. In this week’s module, students were introduced to the Pandas library of functions and features, as well as how it integrates with Python. To access these tools, students were instructed on using the distribution software Anaconda and a module within it called Jupyter Notebook. Using the Jupyter Notebook interface allowed easier editing and running of code, giving students the opportunity to build programs through partitioning and modularizing the development flow. 
 
-In addition to gaining a familiarity with these tools, students were given a real-world simulation to see how Python and Pandas can be applied, and how they work together. The ***PyCity Schools*** model incorporates key concepts and skills development that will help students build a foundation in coding and managing data. These include:
+In addition to gaining a familiarity with these tools, students were given a real-world simulation to see how Python and Pandas can be applied and how they work together. The ***PyCity Schools*** model incorporates key concepts and skills development that will help students build a foundation in coding and managing data. These include:
 
 - Launching Jupyter Notebook files 
 - Creating a development environment.
